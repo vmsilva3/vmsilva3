@@ -18,3 +18,5 @@ Com muita dedicação, pretendo explorar a área mobile para evoluir meus conhec
 ### Contatos
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/vitor-silva-843393175/)
+
+![Snake animation](https://github.com/vmsilva3/vmsilva3/blob/output/github-contribution-grid-snake.svg)
