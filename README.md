@@ -2,9 +2,9 @@
 
 🎓 Curso Análise e Desenvolvimento de Sistemas na Universidade UniCesumar.
 
-⚡ Atualmente estou aprendendo HTML/CSS e UI/UX Design na Origamid.
+⚡ Atualmente estou aperfeiçoando meus conhecimentos em JavaScript na Origamid.
 
-💻 Buscando me aperfeiçoar nas tecnologias do Front-end.
+💻 Buscando me especializar nas tecnologias do Front-end.
 
 ## Tecnologias:
 
