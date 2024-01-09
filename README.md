@@ -12,8 +12,8 @@
 
 ## Estatísticas do GitHub:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmsilva3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmsilva3&hide_progress=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmsilva3&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmsilva3&hide_progress=true&theme=algolia)
 
 ## Social:
 
