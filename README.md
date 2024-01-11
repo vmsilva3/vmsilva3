@@ -6,9 +6,9 @@
 
 💻 Buscando me especializar nas tecnologias do Front-end.
 
-## Tecnologias:
+## Tecnologias e Ferramentas:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,figma,vscode,git,github)](https://skillicons.dev)
 
 ## Estatísticas do GitHub:
 
