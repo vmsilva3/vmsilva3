@@ -4,7 +4,7 @@
 
 ⚡ Atualmente estou aperfeiçoando meus conhecimentos em JavaScript na Origamid.
 
-💻 Buscando me especializar nas tecnologias do Front-end.
+💻 Buscando me especializar em Dados e nas tecnologias do Front-end.
 
 ## Tecnologias e Ferramentas:
 
