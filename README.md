@@ -8,7 +8,7 @@
 
 ## Tecnologias e Ferramentas:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,figma,vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,ts,figma,vscode,git,github)](https://skillicons.dev)
 
 ## Estatísticas do GitHub:
 <div>
